@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @TaroMilky
+- 👋 Hi, I’m @TaroMilky 
 - 👀 I’m interested in all forms of engineering!!!
-- 🌱 I’m currently learning electrical engineering and coding with ai (absolute newbie :P)
-- 💞️ I’m looking to collaborate on literally anything
+- 🌱 I’m currently learning Computer Engineering and coding with AI (absolute newbie :P)
+- 💞️ I’m looking to collaborate on literally anything, and I'm always working on personal projects
 - 📫 Just message me or smt
 
 <!---
