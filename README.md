@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on literally anything, and I'm always working on personal projects
 - 📫 Just message me or smt
 
-## #30NitesOfCode:
+#30NitesOfCode:
   [Check out my progress!](https://www.codedex.io/@TaroMilkyTea/30-nites-of-code)  
   ![@TaroMilkyTea #30NitesOfCode](https://www.codedex.io/api/petStatus?user=TaroMilkyTea)
 <!---
